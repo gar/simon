@@ -1,0 +1,44 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+}
+
+#one {
+  background-color: green;
+}
+
+#two {
+  background-color: red;
+}
+
+#three {
+  background-color: yellow;
+}
+
+#four {
+  background-color: blue;
+}
+
+#instructions-box {
+  text-align: left;
+}
+
+a {
+  color: white;
+}
+
+a:visited {
+  color: grey;
+}
+
+a:hover {
+  color: pink;
+}
