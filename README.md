@@ -4,6 +4,8 @@ This is a project where you will build the game Simon using HTML, CSS and JavaSc
 
 ## What is Simon?
 
+![A picture of the Simon toy](/images/simon-toy.jpg)
+
 Simon is a trick game of memory. The computer flashes boxes of colour on the screen and then you have to click the boxes in the same order. It starts off easy when the computer only flashes a few boxes, but it gets harder when the computer is flashing lots of boxes one after the other!
 
 Read to start?
